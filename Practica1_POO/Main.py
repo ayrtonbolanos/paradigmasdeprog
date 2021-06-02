@@ -1,0 +1,2 @@
+pedro = Persona()
+pedro = Persona()
